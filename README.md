@@ -7,4 +7,9 @@ https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 5- Push sur gitHub les modifications.
 
 -- Commandes Git/GitHub
-https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf		
+https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf
+git status
+
+--- branchs
+git switch xxx = git checkout xxx (switch between branches)
+git branch --list		
